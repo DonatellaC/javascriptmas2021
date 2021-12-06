@@ -11,3 +11,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 3 [Don't scare your relatives](https://scrimba.com/scrim/co18546cda990f3cb288a9050)
 
 ### Day 4 [Christmas Shopping list](https://scrimba.com/scrim/co302432883691523072d07c6)
+
+### Day 5 [Christmas Card Writer](https://scrimba.com/scrim/co80247408199212f1ce558b5)
