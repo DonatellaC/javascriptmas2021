@@ -13,3 +13,7 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 4 [Christmas Shopping list](https://scrimba.com/scrim/co302432883691523072d07c6)
 
 ### Day 5 [Christmas Card Writer](https://scrimba.com/scrim/co80247408199212f1ce558b5)
+
+### Day 6 [Text Christmassifier](https://scrimba.com/scrim/co09a406ca2fefb782e178da6)
+
+### Day 7 [Play a Christmas song](https://scrimba.com/scrim/coec8403280c4b8ab48bbf7de)
