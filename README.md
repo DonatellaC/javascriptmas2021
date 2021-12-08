@@ -17,3 +17,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 6 [Text Christmassifier](https://scrimba.com/scrim/co09a406ca2fefb782e178da6)
 
 ### Day 7 [Play a Christmas song](https://scrimba.com/scrim/coec8403280c4b8ab48bbf7de)
+
+### Day 8 [Bell Animator](https://scrimba.com/scrim/coda740d69bbc77bb530c73c0)
