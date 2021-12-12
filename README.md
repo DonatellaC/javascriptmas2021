@@ -21,3 +21,7 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 8 [Bell Animator](https://scrimba.com/scrim/coda740d69bbc77bb530c73c0)
 
 ### Day 9 [Turn on the Decorations](https://scrimba.com/scrim/co900434c8754382e654d27d0)
+
+### Day 10 [Festivity Loader](https://scrimba.com/scrim/co574475182d046db6ed11cbe)
+
+### Day 11 [Christmas Carousel](https://scrimba.com/scrim/codaf4fd8862139317057e645)
