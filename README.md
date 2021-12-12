@@ -25,3 +25,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 10 [Festivity Loader](https://scrimba.com/scrim/co574475182d046db6ed11cbe)
 
 ### Day 11 [Christmas Carousel](https://scrimba.com/scrim/codaf4fd8862139317057e645)
+
+### Day 12 [Christmas Guest List](https://scrimba.com/scrim/co6714b94bef2f41860fb52af)
