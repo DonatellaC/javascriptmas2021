@@ -31,3 +31,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 13 [Christmas Dinner Calculator](https://scrimba.com/scrim/cob4d431e91942ca39069a66c)
 
 ### Day 14 [Lonely Elf](https://scrimba.com/scrim/coe77440c960f30ca8e18c52d)
+
+### Day 15 [Festive Translator](https://scrimba.com/scrim/cocb2472cbabe64368015c0ac)
