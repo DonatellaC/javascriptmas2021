@@ -33,3 +33,11 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 14 [Lonely Elf](https://scrimba.com/scrim/coe77440c960f30ca8e18c52d)
 
 ### Day 15 [Festive Translator](https://scrimba.com/scrim/cocb2472cbabe64368015c0ac)
+
+### Day 16 [Christmas Movie Selector](https://scrimba.com/scrim/coa9548d4bbd3661b112da9f5)
+
+### Day 17 [Naughty List Nice List](https://scrimba.com/scrim/co7b64ed79fa4fac59bde8ec4)
+
+### Day 18 [Custom Shopping Checkboxes](https://scrimba.com/scrim/co5904a8b8cef3aa1ebbef043)
+
+### Day 19 [Dessert Decider](https://scrimba.com/scrim/co38f4205976c0f3d8f9e515c)
