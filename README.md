@@ -41,3 +41,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 18 [Custom Shopping Checkboxes](https://scrimba.com/scrim/co5904a8b8cef3aa1ebbef043)
 
 ### Day 19 [Dessert Decider](https://scrimba.com/scrim/co38f4205976c0f3d8f9e515c)
+
+### Day 20 [Snowman Customiser](https://scrimba.com/scrim/co5a544998c95d947287851cb)
