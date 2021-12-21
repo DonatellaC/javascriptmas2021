@@ -43,3 +43,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 19 [Dessert Decider](https://scrimba.com/scrim/co38f4205976c0f3d8f9e515c)
 
 ### Day 20 [Snowman Customiser](https://scrimba.com/scrim/co5a544998c95d947287851cb)
+
+### Day 21 [Reindeer Speedometer](https://scrimba.com/scrim/cob084d4aae9799d01a85180b)
