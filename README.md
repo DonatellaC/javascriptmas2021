@@ -45,3 +45,5 @@ Daily JavaScript coding challenge starting from December 1st until December 24th
 ### Day 20 [Snowman Customiser](https://scrimba.com/scrim/co5a544998c95d947287851cb)
 
 ### Day 21 [Reindeer Speedometer](https://scrimba.com/scrim/cob084d4aae9799d01a85180b)
+
+### Day 22 [Christmas Stress Buster](https://scrimba.com/scrim/co2544adb80efaff95787154d)
